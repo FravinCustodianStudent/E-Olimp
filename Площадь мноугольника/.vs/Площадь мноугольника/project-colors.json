@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9712cbbd-8b04-4d11-ab93-9a63c51a9b7b": {
+      "ProjectGuid": "9712cbbd-8b04-4d11-ab93-9a63c51a9b7b",
+      "DisplayName": "Площадь мноугольника",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

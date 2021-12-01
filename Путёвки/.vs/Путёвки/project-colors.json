@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db09b0c4-2bd7-40cc-9e7e-06da92de7fec": {
+      "ProjectGuid": "db09b0c4-2bd7-40cc-9e7e-06da92de7fec",
+      "DisplayName": "Путёвки",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

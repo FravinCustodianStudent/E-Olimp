@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13aa7157-be0b-4dbb-8891-34d3a63cba09": {
+      "ProjectGuid": "13aa7157-be0b-4dbb-8891-34d3a63cba09",
+      "DisplayName": "Цифры",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

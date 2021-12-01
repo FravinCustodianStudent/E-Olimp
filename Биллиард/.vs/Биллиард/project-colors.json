@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "406bff3e-71d3-4d5f-ab69-e799d3f5bc63": {
+      "ProjectGuid": "406bff3e-71d3-4d5f-ab69-e799d3f5bc63",
+      "DisplayName": "Биллиард",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

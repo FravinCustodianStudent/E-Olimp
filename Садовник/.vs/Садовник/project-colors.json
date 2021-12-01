@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6649ebc-20f3-4e91-87ab-32ec726eb5e1": {
+      "ProjectGuid": "a6649ebc-20f3-4e91-87ab-32ec726eb5e1",
+      "DisplayName": "Садовник",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

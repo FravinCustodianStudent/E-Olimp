@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e28d4263-7cbd-4c81-b8a0-cb06d55d462e": {
+      "ProjectGuid": "e28d4263-7cbd-4c81-b8a0-cb06d55d462e",
+      "DisplayName": "паркет из треугольников",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

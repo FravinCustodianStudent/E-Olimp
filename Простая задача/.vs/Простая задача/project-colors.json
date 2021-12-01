@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84a8c7dd-42f1-4ede-8c24-1bea8b109dc0": {
+      "ProjectGuid": "84a8c7dd-42f1-4ede-8c24-1bea8b109dc0",
+      "DisplayName": "Простая задача",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

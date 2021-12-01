@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a87176c4-86d4-466b-bb31-ee43a96c8ced": {
+      "ProjectGuid": "a87176c4-86d4-466b-bb31-ee43a96c8ced",
+      "DisplayName": "N-значные числа",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

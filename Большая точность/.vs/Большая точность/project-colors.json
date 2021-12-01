@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44be17cc-15c6-455f-896a-843ec85bc4a2": {
+      "ProjectGuid": "44be17cc-15c6-455f-896a-843ec85bc4a2",
+      "DisplayName": "Большая точность",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

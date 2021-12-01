@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65ddbd74-1e76-487a-8dec-29cd0da148d8": {
+      "ProjectGuid": "65ddbd74-1e76-487a-8dec-29cd0da148d8",
+      "DisplayName": "Паук и Муха",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

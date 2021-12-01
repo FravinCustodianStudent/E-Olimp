@@ -1,0 +1,7 @@
+﻿  Два сомножителя2.0.cpp
+D:\C++\Learning\Два сомножителя2.0\Два сомножителя2.0\Два сомножителя2.0.cpp(28,27): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Learning\Два сомножителя2.0\Два сомножителя2.0\Два сомножителя2.0.cpp(33,60): warning C4244: '*=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\C++\Learning\Два сомножителя2.0\Два сомножителя2.0\Два сомножителя2.0.cpp(40,34): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\C++\Learning\Два сомножителя2.0\Два сомножителя2.0\Два сомножителя2.0.cpp(45,36): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\C++\Learning\Два сомножителя2.0\Два сомножителя2.0\Два сомножителя2.0.cpp(48,40): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Два сомножителя2.0.vcxproj -> D:\C++\Learning\Два сомножителя2.0\Debug\Два сомножителя2.0.exe

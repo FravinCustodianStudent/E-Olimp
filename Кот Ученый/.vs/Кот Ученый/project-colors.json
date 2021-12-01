@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c92ee4c6-23cf-47d7-8ee8-a0bdec11fa2c": {
+      "ProjectGuid": "c92ee4c6-23cf-47d7-8ee8-a0bdec11fa2c",
+      "DisplayName": "Кот Ученый",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

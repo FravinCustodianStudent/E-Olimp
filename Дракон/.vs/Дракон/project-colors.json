@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed765805-3dec-4949-84af-9f68fef31cc3": {
+      "ProjectGuid": "ed765805-3dec-4949-84af-9f68fef31cc3",
+      "DisplayName": "Дракон",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
